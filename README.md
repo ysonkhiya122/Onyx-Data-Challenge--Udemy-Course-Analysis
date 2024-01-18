@@ -52,7 +52,7 @@ Founded in May 2010 by Eren Bali, Gagan Biyani, and Oktay Caglar, Udemy, Inc. is
 2. Open the Power BI file (`Onyx Data -DataDNA Dataset Challenge - Udemy Courses - January 2024.pbix`) with Power BI Desktop.
 3. Explore the various visualizations and insights in the dashboard.
 
-**Download the Full Report PDF [here]([link_to_your_pdf_file](https://github.com/ysonkhiya122/Onyx-Data-Challenge--Udemy-Course-Analysis/blob/main/Onyx%20Data%20-DataDNA%20Dataset%20Challenge%20-%20Udemy%20Courses%20-%20January%202024.pdf)).**
+**Download the Full Report PDF [here] ([link_to_your_pdf_file](https://github.com/ysonkhiya122/Onyx-Data-Challenge--Udemy-Course-Analysis/blob/main/Onyx%20Data%20-DataDNA%20Dataset%20Challenge%20-%20Udemy%20Courses%20-%20January%202024.pdf)).**
 
 Special thanks to [ZoomCharts](https://www.zoomcharts.com/) for providing a subscription to paid charts and ONYX DATA for such an innovative and challenging opportunity to shape the future of data analysis.
 
