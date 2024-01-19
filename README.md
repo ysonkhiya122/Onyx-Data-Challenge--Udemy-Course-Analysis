@@ -27,11 +27,11 @@ Founded in May 2010 by Eren Bali, Gagan Biyani, and Oktay Caglar, Udemy, Inc. is
 5. Free courses contribute to the learning ecosystem but generate no revenue, emphasizing the platform's reliance on paid courses.
 
 ### Trends
-1. Online courses show a steady rise from 2011 to 2017, peaking at 1,196 in 2016, followed by a slight drop to 711 in 2017.
+1. Online courses show a steady rise from 2011 to 2017, peaking at 1,206 in 2016, followed by a slight drop to 711 in 2017.
 2. The pivotal year 2015 saw a surge with 1,014 courses, generating $315M in revenue, primarily driven by Web Development.
 3. Despite a peak in 2016 course publications, revenue slightly decreased, indicating potential shifts in pricing or user preferences.
 4. 2014 marks the inception of noteworthy course numbers, with 491 courses generating $107M in revenue.
-5. Average course prices increase steadily over the years, reaching $75.64 in 2017, reflecting potential improvements in course quality.
+5. Average course prices have increased steadily over the years, reaching $75.64 in 2017, reflecting potential improvements in course quality.
 
 ### Revenue Snapshot
 1. Web Development dominates revenue with $631M, followed by Business Finance at $124M, Graphic Design at $77M, and Musical Instrument at $53M.
